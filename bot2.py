@@ -76,3 +76,4 @@ while True:
         unfollowers()
     else:
         break
+session.end()
